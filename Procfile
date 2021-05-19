@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mobile_store.wsgi:application
